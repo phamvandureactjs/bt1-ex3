@@ -1,0 +1,17 @@
+.container{
+  display: flex;
+  height: 95vh;
+  width: 97.5vw;
+  color: aliceblue;
+  padding: 15px;
+}
+.sidebar{
+ 
+  width: 30vw;
+  background-color: brown;
+}
+.content{
+ 
+  width: 70vw;
+  background-color: blue;
+}
